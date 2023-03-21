@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Bayon&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+@font-face {
+  font-family: wotfard;
+  src: url(wotfard.ttf) format("truetype");
+}
+:root {
+  --red: #ff3838;
+  --darkblue: #003553;
+}
+.backgroundStyle {
+  background-image: url("../images/img-17.jpg");
+  background-repeat: "no-repeat";
+  background-size: "cover";
+}

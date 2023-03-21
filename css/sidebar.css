@@ -1,0 +1,6 @@
+.sidebar-box-container {
+  /* background: hsl(0deg, 0%, 100%); */
+  flex: 1;
+  padding: 20px;
+  border-radius: 10px;
+}
